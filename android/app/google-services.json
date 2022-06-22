@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "67447994286",
+    "project_id": "equipex1111",
+    "storage_bucket": "equipex1111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67447994286:android:6c2fe715ae7b4795c33a3f",
+        "android_client_info": {
+          "package_name": "com.example.equipex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67447994286-pluongesdmjvldg2iml5b8u5ausge0m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlx-G4UBqrNLK8uCVH6HIP5KBGNB2_mfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67447994286-pluongesdmjvldg2iml5b8u5ausge0m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67447994286-jsra7adere99kaeqa7fftp3chrbjfq9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
